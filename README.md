@@ -69,6 +69,8 @@ Média Geral da Turma: 7.75
 
 🔀 Fluxo do Programa
 flowchart TD
+
+
     A[📥 Início] --> B[👩‍🎓 Ler número de alunos]
     B --> C[✍️ Inserir nome e médias das disciplinas]
     C --> D[🧮 Calcular média geral de cada aluno]
