@@ -1,0 +1,19 @@
+Nome do Aluno: Carlos
+Média Disciplina 1: 100.00
+Média Disciplina 2: 100.00
+Média Geral: 100.00
+Classificação: 1
+
+Nome do Aluno: Pamela
+Média Disciplina 1: 80.00
+Média Disciplina 2: 90.00
+Média Geral: 85.00
+Classificação: 2
+
+Nome do Aluno: Bruno
+Média Disciplina 1: 50.00
+Média Disciplina 2: 60.00
+Média Geral: 55.00
+Classificação: 3
+
+Média Geral da Turma: 80.00
